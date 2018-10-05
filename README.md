@@ -8,9 +8,6 @@
 
 # Google India Scholar Collaborative Project- MWS Phase 2
 
-**Project-Moderator**
-- Smriti Gaba   (@smriti.mws)
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -25,7 +22,7 @@
 ## Getting Started
 - Hi all I want a good team to collaborate with me in this awesome initiative of collaborative projects so that we can create a really awesome, responsive, offline capable website or any other ideas are most welcome. This will brush up all skills that we have learnt in the nanodegree. I am seeking a good team to help me create a great a great project which would cover all the topics of the nanodegree, that is you guys share your idea with me the one which will be the best, we'll start working on it and we'll try to apply all those parts we have learned in the nanodegree to develop a great website(responsiveness, performance, efficient, offline capable, etc).
 
-- Contact me @smriti.mws on slack to share your ideas
+- For any queries Contact me @smriti.mws (project moderator) on slack to share your ideas
 
 
 ## Project URL
