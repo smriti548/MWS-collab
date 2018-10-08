@@ -24,6 +24,8 @@
 
 - For any queries Contact me @smriti.mws (project moderator) on slack to share your ideas
 
+- We are trying to create a website which makes users easier to access there actual information about any website using URL.And this project is related to our "Mobile Web Specialist" track.Comming Soon with some more updates in our project.
+
 
 ## Project URL
 yet to be added
